@@ -25,6 +25,7 @@ Books
 * [From Hell](https://www.goodreads.com/book/show/23529.From_Hell) by Alan Moore (Goodreads Author), Eddie Campbell (illustrator), Pete Mullins (illustrator)
 * [The Arrival](https://www.goodreads.com/book/show/920607.The_Arrival) by Shaun Tan
 * [Akira](https://www.goodreads.com/book/show/93371.Akira_Vol_1) by Katsuhiro Otomo
+* [Akira, Vol. 2](https://www.goodreads.com/book/show/93370.Akira_Vol_2) by Katsuhiro Otomo
 * [Fullmetal Alchemist](https://www.goodreads.com/book/show/870.Fullmetal_Alchemist_Vol_1) by Hiromu Arakawa
 
 ##Fantasy
