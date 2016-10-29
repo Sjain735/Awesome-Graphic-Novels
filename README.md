@@ -42,6 +42,7 @@ Books
 * [Batman: The Killing Joke](https://www.goodreads.com/book/show/96358.Batman) by Alan Moore (Goodreads Author), Brian Bolland (Illustrator)
 * [Batman: Year One](https://www.goodreads.com/book/show/59980.Batman) by Frank Miller, David Mazzucchelli (Illustrator), Richmond Lewis (Colorist)
 * [Superman: Red Son](https://www.goodreads.com/book/show/154798.Superman) by Mark Millar 
+* [Astro City, Vol. 1: Life in the Big City](https://www.goodreads.com/book/show/72111.Astro_City_Vol_1) by Kurt Busiek, Brent Anderson (Artist) 
 
 ##Thriller
 * [Death Note](https://www.goodreads.com/book/show/13615.Death_Note_Vol_1) by Tsugumi Ohba, Takeshi Obata (Illustrator)
